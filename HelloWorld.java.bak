@@ -1,0 +1,10 @@
+/**这是对类的注释*/
+ public class HelloWorld 
+{
+	/**这是对主方法的注释*/
+	public static void main(String args[]) 
+	{
+		System.out.print("test");
+		System.out.println("Hello World!");
+	}
+}
